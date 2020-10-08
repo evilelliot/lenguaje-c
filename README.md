@@ -7,3 +7,5 @@ El proposito de este proyecto es compartir mi conocmiento con los demás y ayuda
 
 La explicación de los temas se puede encontrar en la wiki de este mismo repositorio.
 Las carpetas contienen los archivos de cada capitulo.
+
+Los capitulos entre ( parentesis ) son capitulos especiales, usualmente formularios y recopiladores de información.
